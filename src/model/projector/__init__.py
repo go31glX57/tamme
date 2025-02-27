@@ -1,0 +1,2 @@
+from .input_projector import MultiModalInputProjector
+from .output_projector import MultiModalOutputProjector
